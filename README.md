@@ -14,11 +14,10 @@ A curated collection of resources covering different aspects of load-testing usi
 - [Distributed Testing](#distributed-testing)
 - [Plugins](#plugins)
 - [Frameworks](#frameworks)
+- [Tools](#tools)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
 - [Community](#community)
-  - [Twitter](#twitter)
-  - [Q&A](#qa)
 - [Related](#related)
   - [Awesome Lists](#awesome-lists)
 
@@ -27,6 +26,8 @@ A curated collection of resources covering different aspects of load-testing usi
 - [Homepage](https://locust.io/)
 - [Documentation](https://docs.locust.io/en/latest/)
 - [Source code](https://github.com/locustio/locust)
+- [Twitter](https://twitter.com/locustio)
+- [Slack](https://slack.locust.io/)
 
 ## Getting Started
 
@@ -38,19 +39,22 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ## Frameworks
 
-- [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor in Taurus framework.
+- [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of `Taurus` framework.
+
+## Tools
+
+- [boomer](https://github.com/myzhan/boomer) - A better load generator for locust, written in `Golang`.
+- [locust4j](https://github.com/myzhan/locust4j) - A load generator for locust, written in `Java`.
+- [swarm](https://github.com/anhldbk/swarm) - An elegant `Java` client for locust.
+- [invokust](https://github.com/FutureSharks/invokust) - A wrapper for locust to allow running load tests in `Python` or on AWS Lambda.
+- [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
+- [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running locust from `VS Code` IDE.
 
 ## Trainings & Courses
 
 ## Videos
 
 ## Community
-
-### Twitter
-
-- [@locustio](https://twitter.com/locustio)
-
-### Q&A
 
 - [Locust @ Stack Overflow](https://stackoverflow.com/questions/tagged/locust)
 
