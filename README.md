@@ -49,6 +49,7 @@ A curated collection of resources covering different aspects of load-testing usi
 - [invokust](https://github.com/FutureSharks/invokust) - A wrapper for locust to allow running load tests in `Python` or on AWS Lambda.
 - [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
 - [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running locust from `VS Code` IDE.
+- [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using locust based on `Jest`.
 
 ## Trainings & Courses
 
