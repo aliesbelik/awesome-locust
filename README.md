@@ -26,8 +26,6 @@ A curated collection of resources covering different aspects of load-testing usi
 - [Homepage](https://locust.io/)
 - [Documentation](https://docs.locust.io/en/latest/)
 - [Source code](https://github.com/locustio/locust)
-- [Twitter](https://twitter.com/locustio)
-- [Slack](https://slack.locust.io/)
 
 ## Getting Started
 
@@ -43,13 +41,13 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ## Tools
 
-- [boomer](https://github.com/myzhan/boomer) - A better load generator for locust, written in `Golang`.
-- [locust4j](https://github.com/myzhan/locust4j) - A load generator for locust, written in `Java`.
-- [swarm](https://github.com/anhldbk/swarm) - An elegant `Java` client for locust.
-- [invokust](https://github.com/FutureSharks/invokust) - A wrapper for locust to allow running load tests in `Python` or on AWS Lambda.
+- [boomer](https://github.com/myzhan/boomer) - A better load generator for Locust, written in `Golang`.
+- [locust4j](https://github.com/myzhan/locust4j) - A load generator for Locust, written in `Java`.
+- [swarm](https://github.com/anhldbk/swarm) - An elegant `Java` client for Locust.
+- [invokust](https://github.com/FutureSharks/invokust) - A wrapper for Locust to allow running load tests in `Python` or on AWS Lambda.
 - [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
-- [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running locust from `VS Code` IDE.
-- [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using locust based on `Jest`.
+- [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running Locust from `VS Code` IDE.
+- [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using Locust based on `Jest`.
 
 ## Trainings & Courses
 
@@ -57,7 +55,9 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ## Community
 
-- [Locust @ Stack Overflow](https://stackoverflow.com/questions/tagged/locust)
+- [`locust` on Stack Overflow](https://stackoverflow.com/questions/tagged/locust)
+- [`@locustio` on Twitter](https://twitter.com/locustio)
+- [`#locust` on Slack](https://slack.locust.io/)
 
 ## Related
 
@@ -80,7 +80,5 @@ A curated collection of resources covering different aspects of load-testing usi
 
 Contributions are welcome!<br>
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
