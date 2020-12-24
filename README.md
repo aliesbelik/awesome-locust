@@ -35,6 +35,8 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ## Plugins
 
+- [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust.
+
 ## Frameworks
 
 - [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of `Taurus` framework.
