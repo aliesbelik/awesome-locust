@@ -11,10 +11,14 @@ A curated collection of resources covering different aspects of load-testing usi
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
-- [Distributed Testing](#distributed-testing)
-- [Plugins](#plugins)
-- [Frameworks](#frameworks)
 - [Tools](#tools)
+  - [Plugins](#plugins)
+  - [Workers](#workers)
+  - [Wrappers](#wrappers)
+  - [Configuration Management](#configuration-management)
+  - [Frameworks](#frameworks)
+  - [Miscellaneous](#miscellaneous)
+- [Distributed Testing](#distributed-testing)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
 - [Community](#community)
@@ -31,25 +35,38 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ## Tutorials
 
-## Distributed Testing
+## Tools
 
-## Plugins
+### Plugins
 
 - [locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust.
 
-## Frameworks
-
-- [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of `Taurus` framework.
-
-## Tools
+### Workers
 
 - [boomer](https://github.com/myzhan/boomer) - A better load generator for Locust, written in `Golang`.
 - [locust4j](https://github.com/myzhan/locust4j) - A load generator for Locust, written in `Java`.
 - [swarm](https://github.com/anhldbk/swarm) - An elegant `Java` client for Locust.
+
+### Wrappers
+
 - [invokust](https://github.com/FutureSharks/invokust) - A wrapper for Locust to allow running load tests in `Python` or on AWS Lambda.
-- [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
-- [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running Locust from `VS Code` IDE.
 - [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using Locust based on `Jest`.
+- [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running Locust from `VS Code` IDE.
+
+### Configuration Management
+
+- [ansible-role-locust](https://github.com/tinx/ansible-role-locust) - An Ansible role to manage Locust master instances.
+- [locust_slave](https://github.com/tinx/locust_slave) - An Ansible role to manage Locust slave instances.
+
+### Frameworks
+
+- [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of `Taurus` framework.
+
+### Miscellaneous
+
+- [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
+
+## Distributed Testing
 
 ## Trainings & Courses
 
