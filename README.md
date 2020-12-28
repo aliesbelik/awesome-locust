@@ -19,6 +19,7 @@ A curated collection of resources covering different aspects of load-testing usi
   - [Distributed](#distributed)
   - [Frameworks](#frameworks)
   - [Miscellaneous](#miscellaneous)
+- [CI](#ci)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
 - [Community](#community)
@@ -77,6 +78,11 @@ A curated collection of resources covering different aspects of load-testing usi
 
 - [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
 - [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
+
+## CI
+
+- [locust-github-action](https://github.com/marketplace/actions/locust-load-test) - A GitHub action for load testing using Locust.
+- [teamcity-locustio](https://plugins.jetbrains.com/plugin/13415-locust-io-test-runner) - Configurable Locust test runner plugin for JetBrains Teamcity.
 
 ## Trainings & Courses
 
