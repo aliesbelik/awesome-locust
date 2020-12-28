@@ -48,21 +48,26 @@ A curated collection of resources covering different aspects of load-testing usi
 - [boomer](https://github.com/myzhan/boomer) - A better load generator for Locust, written in `Golang`.
 - [locust4j](https://github.com/myzhan/locust4j) - A load generator for Locust, written in `Java`.
 - [swarm](https://github.com/anhldbk/swarm) - An elegant `Java` client for Locust.
+- [node-locust](https://github.com/jspdown/node-locust) - A `Node.js` load generator for Locust.
+- [ably-boomer](https://github.com/ably/ably-boomer) - Ably load generator for Locust, based on the [boomer](https://github.com/myzhan/boomer) library.
 
 ### Wrappers
 
 - [invokust](https://github.com/FutureSharks/invokust) - A wrapper for Locust to allow running load tests in `Python` or on AWS Lambda.
 - [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using Locust based on `Jest`.
 - [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running Locust from `VS Code` IDE.
+- [stormer](https://github.com/debugtalk/stormer) - Wrappers for making load test with Locust more convienient.
 
 ### Configuration Management
 
 - [ansible-role-locust](https://github.com/tinx/ansible-role-locust) - An Ansible role to manage Locust master instances.
 - [locust_slave](https://github.com/tinx/locust_slave) - An Ansible role to manage Locust slave instances.
+- [terraform-aws-locust](https://github.com/mettjus/terraform-aws-locust) - Deploy a Locust stress test cluster on AWS based on CoreOS/Docker.
 
 ### Distributed
 
 - [locust-swarm](https://github.com/SvenskaSpel/locust-swarm) - A tool for launching distributed Locust runs on a set of load generators.
+- [azure-locust](https://github.com/ORBA/azure-locust) - Run distributed Locust load tests on Azure Container Instances.
 
 ### Frameworks
 
@@ -71,6 +76,7 @@ A curated collection of resources covering different aspects of load-testing usi
 ### Miscellaneous
 
 - [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
+- [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
 
 ## Trainings & Courses
 
