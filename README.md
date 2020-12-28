@@ -16,9 +16,9 @@ A curated collection of resources covering different aspects of load-testing usi
   - [Workers](#workers)
   - [Wrappers](#wrappers)
   - [Configuration Management](#configuration-management)
+  - [Distributed](#distributed)
   - [Frameworks](#frameworks)
   - [Miscellaneous](#miscellaneous)
-- [Distributed Testing](#distributed-testing)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
 - [Community](#community)
@@ -60,6 +60,10 @@ A curated collection of resources covering different aspects of load-testing usi
 - [ansible-role-locust](https://github.com/tinx/ansible-role-locust) - An Ansible role to manage Locust master instances.
 - [locust_slave](https://github.com/tinx/locust_slave) - An Ansible role to manage Locust slave instances.
 
+### Distributed
+
+- [locust-swarm](https://github.com/SvenskaSpel/locust-swarm) - A tool for launching distributed Locust runs on a set of load generators.
+
 ### Frameworks
 
 - [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of `Taurus` framework.
@@ -67,8 +71,6 @@ A curated collection of resources covering different aspects of load-testing usi
 ### Miscellaneous
 
 - [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
-
-## Distributed Testing
 
 ## Trainings & Courses
 
