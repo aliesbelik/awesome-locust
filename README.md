@@ -86,6 +86,9 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ## Trainings & Courses
 
+- [Performance Testing Using Locust 1.0](https://www.udemy.com/course/performance-testing-using-locust/) - By Udemy.
+- [Locust Performance Framework Development with Real Project](https://www.udemy.com/course/locust-performance-framework-development-with-real-project/) - By Udemy.
+
 ## Videos
 
 ## Community
