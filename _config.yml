@@ -1,1 +1,8 @@
+title: Awesome Locust
+description: Curated collection of resources on Locust load-testing framework
+author: 
+  name: Aliaksandr Belik
+  github: aliesbelik
+show_downloads: false
+google_analytics: UA-154669570-4
 theme: jekyll-theme-cayman
