@@ -1,9 +1,12 @@
 # Awesome Locust [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint ignore double-link-->
 [<img src="assets/images/locust-logo.svg" align="right" width="260" alt="Locust">](https://locust.io/)
 
+<!--lint ignore double-link-->
 A curated collection of resources covering different aspects of load-testing using [Locust](https://locust.io/) framework and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
 
+<!--lint ignore double-link-->
 > [Locust](https://locust.io/) is an open-source scalable load-testing framework written in Python.
 
 ## Contents
@@ -29,6 +32,7 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ## Official Resources
 
+<!--lint ignore double-link-->
 - [Homepage](https://locust.io/)
 - [Documentation](https://docs.locust.io/en/latest/)
 - [Source code](https://github.com/locustio/locust)
@@ -47,6 +51,7 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ### Workers
 
+<!--lint ignore double-link-->
 - [boomer](https://github.com/myzhan/boomer) - A better load generator for Locust, written in `Golang`.
 - [locust4j](https://github.com/myzhan/locust4j) - A load generator for Locust, written in `Java`.
 - [swarm](https://github.com/anhldbk/swarm) - An elegant `Java` client for Locust.
@@ -80,7 +85,7 @@ A curated collection of resources covering different aspects of load-testing usi
 ### CI
 
 - [locust-github-action](https://github.com/marketplace/actions/locust-load-test) - A GitHub action for load testing using Locust.
-- [teamcity-locustio](https://plugins.jetbrains.com/plugin/13415-locust-io-test-runner) - Configurable Locust test runner plugin for JetBrains Teamcity.
+- [teamcity-locustio](https://github.com/orn0t/teamcity-locustio) - Configurable [Locust test runner plugin](https://plugins.jetbrains.com/plugin/13415-locust-io-test-runner) for JetBrains Teamcity.
 
 ### Reporting
 
