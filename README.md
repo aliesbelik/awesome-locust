@@ -19,6 +19,7 @@ A curated collection of resources covering different aspects of load-testing usi
   - [Distributed](#distributed)
   - [Frameworks](#frameworks)
   - [CI](#ci)
+  - [Reporting](#reporting)
   - [Miscellaneous](#miscellaneous)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
@@ -80,6 +81,10 @@ A curated collection of resources covering different aspects of load-testing usi
 
 - [locust-github-action](https://github.com/marketplace/actions/locust-load-test) - A GitHub action for load testing using Locust.
 - [teamcity-locustio](https://plugins.jetbrains.com/plugin/13415-locust-io-test-runner) - Configurable Locust test runner plugin for JetBrains Teamcity.
+
+### Reporting
+
+- [Locust Exporter](https://github.com/ContainerSolutions/locust_exporter) - A Locust metrics exporter for Prometheus.
 
 ### Miscellaneous
 
