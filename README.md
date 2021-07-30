@@ -26,6 +26,8 @@ A curated collection of resources covering different aspects of load-testing usi
   - [Miscellaneous](#miscellaneous)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
+  - [Talks](#talks)
+  - [Video Tutorials](#video-tutorials)
 - [Community](#community)
 - [Related](#related)
   - [Awesome Lists](#awesome-lists)
@@ -102,6 +104,17 @@ A curated collection of resources covering different aspects of load-testing usi
 - [Locust Performance Framework Development with Real Project](https://www.udemy.com/course/locust-performance-framework-development-with-real-project/) - By Udemy.
 
 ## Videos
+
+### Talks
+
+- [An Intro to Load Testing with Locust and Python](https://www.youtube.com/watch?v=uvs4cq6JCeU) - Gabriel Boorse @ PyBay 2019.
+- [Load test your backend with locust.io](https://www.youtube.com/watch?v=1_xROmLYvtY) - Ivan Matellanes @ PyLondinium 2018.
+- [Load testing with Locust](https://www.youtube.com/watch?v=XjSEgiFDARw) - Kubilay Kahveci @ FOSDEM 2018.
+- [Performance Testing with Python and Locust](https://www.youtube.com/watch?v=5sSouciEgWE) - Michael Sluyter @ PyTexas 2017.
+
+### Video Tutorials
+
+- [Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8) - Tutorial series by Nicolai Gram.
 
 ## Community
 
