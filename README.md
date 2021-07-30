@@ -44,6 +44,7 @@ A curated collection of resources covering different aspects of load-testing usi
 ## Tutorials
 
 - [Locust for JMeter users](https://howardosborne.github.io/locust_for_jmeter_users/) - A tutorial on using Locust for people familiar with Apache JMeter.
+- [How do I Locust](https://github.com/pglass/how-do-i-locust) - A quick overview and random tips for Locust.
 
 ## Tools
 
