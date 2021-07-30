@@ -55,17 +55,17 @@ A curated collection of resources covering different aspects of load-testing usi
 ### Workers
 
 <!--lint ignore double-link-->
-- [boomer](https://github.com/myzhan/boomer) - A better load generator for Locust, written in `Golang`.
-- [locust4j](https://github.com/myzhan/locust4j) - A load generator for Locust, written in `Java`.
-- [swarm](https://github.com/anhldbk/swarm) - An elegant `Java` client for Locust.
-- [node-locust](https://github.com/jspdown/node-locust) - A `Node.js` load generator for Locust.
+- [boomer](https://github.com/myzhan/boomer) - A better load generator for Locust, written in Golang.
+- [locust4j](https://github.com/myzhan/locust4j) - A load generator for Locust, written in Java.
+- [swarm](https://github.com/anhldbk/swarm) - An elegant Java client for Locust.
+- [node-locust](https://github.com/jspdown/node-locust) - A Node.js load generator for Locust.
 - [ably-boomer](https://github.com/ably/ably-boomer) - Ably load generator for Locust, based on the [boomer](https://github.com/myzhan/boomer) library.
 
 ### Wrappers
 
-- [invokust](https://github.com/FutureSharks/invokust) - A wrapper for Locust to allow running load tests in `Python` or on AWS Lambda.
-- [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using Locust based on `Jest`.
-- [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running Locust from `VS Code` IDE.
+- [invokust](https://github.com/FutureSharks/invokust) - A wrapper for Locust to allow running load tests in Python or on AWS Lambda.
+- [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using Locust based on Jest.
+- [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running Locust from VS Code IDE.
 - [stormer](https://github.com/debugtalk/stormer) - Wrappers for making load test with Locust more convienient.
 
 ### Configuration Management
@@ -82,8 +82,8 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ### Frameworks
 
-- [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of `Taurus` framework.
-- [httprunner](https://github.com/httprunner/httprunner) - An HTTP/S testing framework with reuse of Locust.
+- [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
+- [httprunner](https://github.com/httprunner/httprunner) - A HTTP/S testing framework with reuse of Locust.
 
 ### CI
 
@@ -96,7 +96,7 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ### Miscellaneous
 
-- [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and `Python` library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
+- [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
 - [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
 
 ## Trainings & Courses
@@ -138,7 +138,7 @@ A curated collection of resources covering different aspects of load-testing usi
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 - [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-- [Awesome k6](https://github.com/k6io/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+- [Awesome k6](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## Contributing
 
