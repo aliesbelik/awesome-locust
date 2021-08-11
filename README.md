@@ -79,6 +79,7 @@ A curated collection of resources covering different aspects of load-testing usi
 - [locust-swarm](https://github.com/SvenskaSpel/locust-swarm) - A tool for launching distributed Locust runs on a set of load generators.
 - [azure-locust](https://github.com/ORBA/azure-locust) - Run distributed Locust load tests on Azure Container Instances.
 - [kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster using multiple load generators.
+- [klocust](https://github.com/DevopsArtFactory/klocust) - A command-line tool for managing Locust distributed load testing on Kubernetes.
 
 ### Frameworks
 
