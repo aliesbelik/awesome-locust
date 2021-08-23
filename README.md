@@ -21,7 +21,7 @@ A curated collection of resources covering different aspects of load-testing usi
   - [Configuration Management](#configuration-management)
   - [Distributed](#distributed)
   - [Frameworks](#frameworks)
-  - [CI](#ci)
+  - [CI/CD](#cicd)
   - [Reporting](#reporting)
   - [Miscellaneous](#miscellaneous)
 - [Trainings & Courses](#trainings--courses)
@@ -86,10 +86,11 @@ A curated collection of resources covering different aspects of load-testing usi
 - [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
 - [httprunner](https://github.com/httprunner/httprunner) - A HTTP/S testing framework with reuse of Locust.
 
-### CI
+### CI/CD
 
 - [locust-github-action](https://github.com/marketplace/actions/locust-load-test) - A GitHub action for load testing using Locust.
 - [teamcity-locustio](https://github.com/orn0t/teamcity-locustio) - Configurable [Locust test runner plugin](https://plugins.jetbrains.com/plugin/13415-locust-io-test-runner) for JetBrains Teamcity.
+- [Keptn Locust Service](https://github.com/keptn-sandbox/locust-service) - [Keptn integration](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed) to performance test application using Locust.
 
 ### Reporting
 
