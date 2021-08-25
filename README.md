@@ -95,6 +95,7 @@ A curated collection of resources covering different aspects of load-testing usi
 ### Reporting
 
 - [Locust Exporter](https://github.com/ContainerSolutions/locust_exporter) - A Locust metrics exporter for Prometheus.
+- [locust-reporter](https://github.com/benc-uk/locust-reporter) - Generate HTML reports from Locust load test output.
 
 ### Miscellaneous
 
