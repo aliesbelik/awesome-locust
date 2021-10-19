@@ -4,7 +4,7 @@
 [<img src="assets/images/locust-logo.svg" align="right" width="260" alt="Locust">](https://locust.io/)
 
 <!--lint ignore double-link-->
-A curated collection of resources covering different aspects of load-testing using [Locust](https://locust.io/) framework and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
+A curated collection of resources covering different aspects of load-testing using [Locust](https://locust.io/) framework and related stuff: plugins, integrations, testing techniques, DevOps practices, etc.
 
 <!--lint ignore double-link-->
 > [Locust](https://locust.io/) is an open-source scalable load-testing framework written in Python.
@@ -66,7 +66,7 @@ A curated collection of resources covering different aspects of load-testing usi
 - [invokust](https://github.com/FutureSharks/invokust) - A wrapper for Locust to allow running load tests in Python or on AWS Lambda.
 - [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using Locust based on Jest.
 - [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running Locust from VS Code IDE.
-- [stormer](https://github.com/debugtalk/stormer) - Wrappers for making load test with Locust more convienient.
+- [stormer](https://github.com/debugtalk/stormer) - Wrappers for making load test with Locust more convenient.
 
 ### Configuration Management
 
@@ -131,8 +131,6 @@ A curated collection of resources covering different aspects of load-testing usi
 
 ### Awesome Lists
 
-- [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists.
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 - [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
@@ -148,5 +146,3 @@ A curated collection of resources covering different aspects of load-testing usi
 
 Contributions are welcome!<br>
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
