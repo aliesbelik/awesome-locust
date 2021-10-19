@@ -80,6 +80,7 @@ A curated collection of resources covering different aspects of load-testing usi
 - [azure-locust](https://github.com/ORBA/azure-locust) - Run distributed Locust load tests on Azure Container Instances.
 - [kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster using multiple load generators.
 - [klocust](https://github.com/DevopsArtFactory/klocust) - A command-line tool for managing Locust distributed load testing on Kubernetes.
+- [zelt](https://github.com/zalando-incubator/zelt) - Zalando End-to-end Load Tester, a command-line tool for orchestrating the deployment of Locust in Kubernetes.
 
 ### Frameworks
 
