@@ -24,6 +24,7 @@ A curated collection of resources covering different aspects of load-testing usi
   - [CI/CD](#cicd)
   - [Reporting](#reporting)
   - [Miscellaneous](#miscellaneous)
+- [Templates](#templates)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
   - [Talks](#talks)
@@ -104,6 +105,10 @@ A curated collection of resources covering different aspects of load-testing usi
 
 - [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
 - [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
+
+## Templates
+
+- [stress-test-locust](https://github.com/rednafi/stress-test-locust) - Template for stress testing with Python, Locust & Docker.
 
 ## Trainings & Courses
 
