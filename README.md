@@ -86,6 +86,7 @@ A curated collection of resources covering different aspects of load-testing usi
 - [zelt](https://github.com/zalando-incubator/zelt) - Zalando End-to-end Load Tester, a command-line tool for orchestrating the deployment of Locust in Kubernetes.
 - [locust-on-azure](https://github.com/yorek/locust-on-azure) - Running distributed Locust on Azure Container Instances.
 - [swarmadmin](https://github.com/mms-gianni/swarmadmin) - Dynamically create and manage Locust instances on a Kubernetes cluster.
+- [amazon-eks-locust](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust) - Load testing your workload running on Amazon EKS with Locust.
 
 ### Frameworks
 
