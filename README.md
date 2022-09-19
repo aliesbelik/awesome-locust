@@ -133,6 +133,7 @@ A curated collection of resources covering different aspects of load testing usi
 ### Video Tutorials
 
 - [Load Testing with Python and Locust.io](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8) - Tutorial series by Nicolai Gram.
+- [Learn Locust Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRKMCzJARCObgJs3SinOewp5) - By QAInsights.
 
 ## Community
 
