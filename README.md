@@ -131,6 +131,7 @@ A curated collection of resources covering different aspects of load testing usi
 - [Load test your backend with locust.io](https://www.youtube.com/watch?v=1_xROmLYvtY) - Ivan Matellanes @ PyLondinium 2018.
 - [Load testing with Locust](https://www.youtube.com/watch?v=XjSEgiFDARw) - Kubilay Kahveci @ FOSDEM 2018.
 - [Performance Testing with Python and Locust](https://www.youtube.com/watch?v=5sSouciEgWE) - Michael Sluyter @ PyTexas 2017.
+- [Distributed Load Testing with Kubernetes](https://www.youtube.com/watch?v=PyUOZC20lSI) - Amanda Waite @ Devoxx Belgium 2015.
 
 ### Video Tutorials
 
