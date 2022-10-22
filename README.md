@@ -113,6 +113,7 @@ A curated collection of resources covering different aspects of load testing usi
 - [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
 - [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
 - [locust.replay](https://github.com/zlorb/locust.replay) - Record and playback Locust tests with mitmproxy.
+- [locustcompare](https://github.com/panilya/locustcompare) - A command-line tool to compare Locust test results. Supports comparing by column(s) and renders result in a terminal output or in HTML.
 
 ## Templates
 
