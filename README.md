@@ -107,6 +107,7 @@ A curated collection of resources covering different aspects of load testing usi
 - [locust-reporter](https://github.com/benc-uk/locust-reporter) - Generate HTML reports from Locust load test output.
 - [JtlReporter](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate performance reports from Locust by either uploading CSV file or streaming data from the test run continuously.
 - [locust-influxdb-listener](https://github.com/pjcalvo/locust-influxdb-listener) - Locust base project with a custom influxDB listener.
+- [locust-cloudwatch](https://github.com/concurrencylabs/locust-cloudwatch) - Code and a CloudFormation template to publish Locust test results as AWS CloudWatch metrics.
 
 ### Miscellaneous
 
