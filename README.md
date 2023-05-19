@@ -95,6 +95,7 @@ A curated collection of resources covering different aspects of load testing usi
 - [Taurus](https://gettaurus.org/docs/Locust/) - Locust Executor as part of Taurus framework.
 - [httprunner](https://github.com/httprunner/httprunner) - A HTTP/S testing framework with reuse of Locust.
 - [Grasshopper](https://github.com/alteryx/locust-grasshopper) - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
+- [Grizzly](https://github.com/Biometria-se/grizzly) - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
 
 ### CI/CD
 
