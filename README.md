@@ -68,8 +68,8 @@ A curated collection of resources covering different aspects of load testing usi
 
 - [invokust](https://github.com/FutureSharks/invokust) - A wrapper for Locust to allow running load tests in Python or on AWS Lambda.
 - [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using Locust based on Jest.
-- [locust-runner](https://marketplace.visualstudio.com/items?itemName=VolkanOzdamar.locust-runner) - Marketplace extension for running Locust from VS Code IDE.
 - [stormer](https://github.com/debugtalk/stormer) - Wrappers for making load test with Locust more convenient.
+- [locust-extension](https://github.com/JeremyJeanson/locust-extension) - VS Code extension to simplify the usage of Locust.
 
 ### Configuration Management
 
@@ -80,7 +80,7 @@ A curated collection of resources covering different aspects of load testing usi
 ### Distributed
 
 - [locust-swarm](https://github.com/SvenskaSpel/locust-swarm) - A tool for launching distributed Locust runs on a set of load generators.
-- [azure-locust](https://github.com/ORBA/azure-locust) - Run distributed Locust load tests on Azure Container Instances.
+- [azure-locust](https://github.com/Lingaro/azure-locust) - Run distributed Locust load tests on Azure Container Instances.
 - [kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster using multiple load generators.
 - [klocust](https://github.com/DevopsArtFactory/klocust) - A command-line tool for managing Locust distributed load testing on Kubernetes.
 - [zelt](https://github.com/zalando-incubator/zelt) - Zalando End-to-end Load Tester, a command-line tool for orchestrating the deployment of Locust in Kubernetes.
