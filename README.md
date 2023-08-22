@@ -115,6 +115,7 @@ A curated collection of resources covering different aspects of load testing usi
 ### Results Processing
 
 - [locustcompare](https://github.com/panilya/locustcompare) - A command-line tool to compare Locust test results.
+- [locust-csv-to-junit-xml](https://github.com/joncloud/locust-csv-to-junit-xml) - Simple utility to convert Locust CSV output into JUnit XML.
 
 ### Miscellaneous
 
