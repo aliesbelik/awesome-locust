@@ -86,7 +86,7 @@ A curated collection of resources covering different aspects of load testing usi
 - [klocust](https://github.com/DevopsArtFactory/klocust) - A command-line tool for managing Locust distributed load testing on Kubernetes.
 - [zelt](https://github.com/zalando-incubator/zelt) - Zalando End-to-end Load Tester, a command-line tool for orchestrating the deployment of Locust in Kubernetes.
 - [locust-on-azure](https://github.com/yorek/locust-on-azure) - Running distributed Locust on Azure Container Instances.
-- [swarmadmin](https://github.com/mms-gianni/swarmadmin) - Dynamically create and manage Locust instances on a Kubernetes cluster.
+- [locust-admin](https://github.com/mms-gianni/locust-admin) - Dynamically create and manage Locust instances on a Kubernetes cluster.
 - [amazon-eks-locust](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust) - Load testing your workload running on Amazon EKS with Locust.
 - [terraform-aws-loadtest-distribuited](https://github.com/marcosborges/terraform-aws-loadtest-distribuited) - Terraform module to run your load tests created with JMeter, TaurusBzt or Locust on AWS as IaaS.
 - [locust-k8s-operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) - Cloud native solution to run Locust on any Kubernetes cluster.
