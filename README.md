@@ -23,6 +23,7 @@ A curated collection of resources covering different aspects of load testing usi
   - [Frameworks](#frameworks)
   - [CI/CD](#cicd)
   - [Reporting](#reporting)
+  - [Results Processing](#results-processing)
   - [Miscellaneous](#miscellaneous)
 - [Templates](#templates)
 - [Trainings & Courses](#trainings--courses)
@@ -111,12 +112,15 @@ A curated collection of resources covering different aspects of load testing usi
 - [locust-influxdb-listener](https://github.com/pjcalvo/locust-influxdb-listener) - Locust base project with a custom influxDB listener.
 - [locust-cloudwatch](https://github.com/concurrencylabs/locust-cloudwatch) - Code and a CloudFormation template to publish Locust test results as AWS CloudWatch metrics.
 
+### Results Processing
+
+- [locustcompare](https://github.com/panilya/locustcompare) - A command-line tool to compare Locust test results.
+
 ### Miscellaneous
 
 - [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
 - [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
 - [locust.replay](https://github.com/zlorb/locust.replay) - Record and playback Locust tests with mitmproxy.
-- [locustcompare](https://github.com/panilya/locustcompare) - A command-line tool to compare Locust test results.
 - [har2locust](https://github.com/SvenskaSpel/har2locust) - Convert HAR file to a Locust script.
 
 ## Templates
