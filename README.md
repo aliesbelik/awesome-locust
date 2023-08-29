@@ -64,6 +64,7 @@ A curated collection of resources covering different aspects of load testing usi
 - [swarm](https://github.com/anhldbk/swarm) - An elegant Java client for Locust.
 - [node-locust](https://github.com/jspdown/node-locust) - A Node.js load generator for Locust.
 - [ably-boomer](https://github.com/ably/ably-boomer) - Ably load generator for Locust, based on the [boomer](https://github.com/myzhan/boomer) library.
+- [ably-locust](https://github.com/ably-labs/ably-locust) - A JavaScript load generator for Locust.
 
 ### Wrappers
 
