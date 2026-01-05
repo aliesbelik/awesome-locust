@@ -152,8 +152,9 @@ A curated collection of resources covering different aspects of load testing usi
 ## Community
 
 - [`locust` on Stack Overflow](https://stackoverflow.com/questions/tagged/locust)
-- [`@locustio` on Twitter](https://twitter.com/locustio)
+- [`@locustio` on Twitter](https://x.com/locustio)
 - [`#locust` on Slack](https://slack.locust.io/)
+- [`locust-cloud` on Medium](https://medium.com/locust-cloud)
 
 ## Related
 
