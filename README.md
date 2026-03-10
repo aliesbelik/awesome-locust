@@ -14,16 +14,19 @@ A curated collection of resources covering different aspects of load testing usi
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
-- [Tools](#tools)
+- [Tools & Integrations](#tools--integrations)
   - [Plugins](#plugins)
   - [Workers](#workers)
   - [Wrappers](#wrappers)
+  - [Converters](#converters)
+  - [IDE Extensions](#ide-extensions)
   - [Configuration Management](#configuration-management)
   - [Distributed](#distributed)
   - [Frameworks](#frameworks)
-  - [CI/CD](#cicd)
   - [Reporting](#reporting)
   - [Results Processing](#results-processing)
+  - [CI/CD](#cicd)
+  - [Test Management](#test-management)
   - [Miscellaneous](#miscellaneous)
 - [Templates](#templates)
 - [Trainings & Courses](#trainings--courses)
@@ -50,7 +53,7 @@ A curated collection of resources covering different aspects of load testing usi
 - [How do I Locust](https://github.com/pglass/how-do-i-locust) - A quick overview and random tips for Locust.
 - [Locust.io experiments](https://medium.com/locust-io-experiments) - Series of experiments with Locust.
 
-## Tools
+## Tools & Integrations
 
 ### Plugins
 
@@ -71,6 +74,15 @@ A curated collection of resources covering different aspects of load testing usi
 - [invokust](https://github.com/FutureSharks/invokust) - A wrapper for Locust to allow running load tests in Python or on AWS Lambda.
 - [strezz](https://github.com/abdoutelb/strezz) - A wrapper for stress testing using Locust based on Jest.
 - [stormer](https://github.com/debugtalk/stormer) - Wrappers for making load test with Locust more convenient.
+
+### Converters
+
+- [har2locust](https://github.com/SvenskaSpel/har2locust) - Convert HAR file to a Locust script.
+- [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
+- [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
+
+### IDE Extensions
+
 - [locust-extension](https://github.com/JeremyJeanson/locust-extension) - VS Code extension to simplify the usage of Locust.
 
 ### Configuration Management
@@ -99,12 +111,6 @@ A curated collection of resources covering different aspects of load testing usi
 - [Grasshopper](https://github.com/alteryx/locust-grasshopper) - A lightweight framework for performing load tests, glues Locust, Pytest, some plugins and some custom code to provide a package that makes authoring load tests simple with very little boilerplate needed.
 - [Grizzly](https://github.com/Biometria-se/grizzly) - A framework to easily define load test scenarios, mainly built on top of Locust and Behave.
 
-### CI/CD
-
-- [locust-github-action](https://github.com/marketplace/actions/locust-load-test) - A GitHub action for load testing using Locust.
-- [teamcity-locustio](https://github.com/orn0t/teamcity-locustio) - Configurable [Locust test runner plugin](https://plugins.jetbrains.com/plugin/13415-locust-io-test-runner) for JetBrains Teamcity.
-- [Keptn Locust Service](https://github.com/keptn-sandbox/locust-service) - [Keptn integration](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed) to performance test application using Locust.
-
 ### Reporting
 
 - [Locust Exporter](https://github.com/ContainerSolutions/locust_exporter) - A Locust metrics exporter for Prometheus.
@@ -118,12 +124,19 @@ A curated collection of resources covering different aspects of load testing usi
 - [locustcompare](https://github.com/panilya/locustcompare) - A command-line tool to compare Locust test results.
 - [locust-csv-to-junit-xml](https://github.com/joncloud/locust-csv-to-junit-xml) - Simple utility to convert Locust CSV output into JUnit XML.
 
+### CI/CD
+
+- [locust-github-action](https://github.com/marketplace/actions/locust-load-test) - A GitHub action for load testing using Locust.
+- [teamcity-locustio](https://github.com/orn0t/teamcity-locustio) - Configurable [Locust test runner plugin](https://plugins.jetbrains.com/plugin/13415-locust-io-test-runner) for JetBrains Teamcity.
+- [Keptn Locust Service](https://github.com/keptn-sandbox/locust-service) - [Keptn integration](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed) to performance test application using Locust.
+
+### Test Management
+
+- [Performance and load testing with Locust](https://docs.getxray.app/space/XRAYCLOUD/44565459/Performance+and+load+testing+with+Locust) - Integrating with Xray Test Management on Jira and Locust, using a custom report.
+
 ### Miscellaneous
 
-- [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
-- [swagger-to-locustfile](https://github.com/lieldulev/swagger-to-locustfile) - A command-line tool to create Locust tasks file (locustfile) from Swagger/OpenAPI spec.
 - [locust.replay](https://github.com/zlorb/locust.replay) - Record and playback Locust tests with mitmproxy.
-- [har2locust](https://github.com/SvenskaSpel/har2locust) - Convert HAR file to a Locust script.
 
 ## Templates
 
