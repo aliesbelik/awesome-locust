@@ -52,6 +52,7 @@ A curated collection of resources covering different aspects of load testing usi
 - [Locust for JMeter users](https://howardosborne.github.io/locust_for_jmeter_users/) - A tutorial on using Locust for people familiar with Apache JMeter.
 - [How do I Locust](https://github.com/pglass/how-do-i-locust) - A quick overview and random tips for Locust.
 - [Locust.io experiments](https://medium.com/locust-io-experiments) - Series of experiments with Locust.
+- [Locust makes performance testing easy](https://dev.solita.fi/2021/04/23/performance-testing-with-locust.html)
 
 ## Tools & Integrations
 
@@ -84,6 +85,7 @@ A curated collection of resources covering different aspects of load testing usi
 ### IDE Extensions
 
 - [locust-extension](https://github.com/JeremyJeanson/locust-extension) - VS Code extension to simplify the usage of Locust.
+- [locust-vscode-extension](https://github.com/locustcloud/extension) - VS Code extension with support for Locust Cloud and tools for seamless Locust Cloud/Locust Load Testing integration.
 
 ### Configuration Management
 
@@ -141,6 +143,7 @@ A curated collection of resources covering different aspects of load testing usi
 ## Templates
 
 - [stress-test-locust](https://github.com/rednafi/stress-test-locust) - Template for stress testing with Python, Locust & Docker.
+- [BaselinePerformanceTest-Locust](https://github.com/teixeira-fernando/BaselinePerformanceTest-Locust) - A setup to use Locust, docker-compose and GitHub Actions to run baseline performance tests.
 
 ## Trainings & Courses
 
@@ -151,6 +154,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 ### Talks
 
+- [Performance testing in the cloud with Locust](https://www.youtube.com/watch?v=52nSa6UFeng) - Leon van Wijk @ Spaces Summit 2021.
 - [An Intro to Load Testing with Locust and Python](https://www.youtube.com/watch?v=uvs4cq6JCeU) - Gabriel Boorse @ PyBay 2019.
 - [Load test your backend with locust.io](https://www.youtube.com/watch?v=1_xROmLYvtY) - Ivan Matellanes @ PyLondinium 2018.
 - [Load testing with Locust](https://www.youtube.com/watch?v=XjSEgiFDARw) - Kubilay Kahveci @ FOSDEM 2018.
