@@ -188,6 +188,7 @@ A curated collection of resources covering different aspects of load testing usi
 
 - [How They Load Test](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
 - [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+- [Agent QA](https://github.com/vostride/agent-qa) - Open Source self-improving QA agent for natural-language web and mobile user-flow testing.
 
 ## Contributing
 
